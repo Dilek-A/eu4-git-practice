@@ -1,6 +1,6 @@
 public class HelloTest {
     public static void main(String[] args) {
-        System.out.println("Testing hello");
+        System.out.println("Testing hello, Hello Eu4");
 
         // Testing hello
 
