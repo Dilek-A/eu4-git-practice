@@ -6,6 +6,8 @@ public class HelloTest {
 
         //Eu4 learning git
 
-        //oh i like this movie who played it? Let me continue
+        //movie on the phone 10 minutes
+        //movie on the phone 20 minutes
+        //another final 10 min before going back to living room
     }
 }
